@@ -1,7 +1,7 @@
-#### To the Site:https://ralexr.github.io/Natours/
+#### To the Site:https://ralexr.github.io/Trillo/
 
 
-#### Trillo is a app interface, for boocking. Its just a single page without any real functionality. 
+#### Trillo is a app interface, for booking. Its a landing page without any real functionality. 
 
 This project is an exercise to have a better understanding of Flex.
 
